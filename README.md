@@ -2,6 +2,7 @@
 An useful Discord bot for timezones and daylight stuff.
 
 ![Icon](http://ailothaen.fr/d/ailotime-256.png "Icon")
+
 *(icon drawn by [Applestream](https://www.deviantart.com/applestream "Applestream"))*
 
 ## What it can do?
